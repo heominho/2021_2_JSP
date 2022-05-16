@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/Dec/2021:19:11:33 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/index.jsp HTTP/1.1" 200 5894
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/main.css HTTP/1.1" 200 4569
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/index1.jpg HTTP/1.1" 200 2083403
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/index2.png HTTP/1.1" 200 3378225
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/index3.jpg HTTP/1.1" 200 1040433
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/goodnight.jpg HTTP/1.1" 200 2034350
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/rightarrow.png HTTP/1.1" 200 3062
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /201844102_finalexample/leftarrow.png HTTP/1.1" 200 3091
+127.0.0.1 - - [09/Dec/2021:19:11:36 +0900] "GET /favicon.ico HTTP/1.1" 404 818
